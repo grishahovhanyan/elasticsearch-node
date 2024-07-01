@@ -1,0 +1,10 @@
+{
+  "name": "elasticsearch-crud",
+  "author": "Grisha Hovhanyan",
+  "version": "1.0.0",
+  "main": "client.js",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.14.0",
+    "dotenv": "^16.4.5"
+  }
+}

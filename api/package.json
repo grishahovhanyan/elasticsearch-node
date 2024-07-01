@@ -1,0 +1,20 @@
+{
+  "name": "todo-crud-with-elasticsearch",
+  "author": "Grisha Hovhanyan",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/index",
+    "start:dev": "nodemon ./src/index"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.14.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "swagger-ui-express": "^5.0.1",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

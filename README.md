@@ -64,5 +64,3 @@ npm run start:dev
 ## Author
 
 - **Grisha Hovhanyan** - [github:grishahovhanyan](https://github.com/grishahovhanyan)
-
-> [Project Documentation](https://yourdocumentationlink)
